@@ -17,9 +17,9 @@
 ---
 
 ### Connect with me:
-<a>
+
 <p align="left">
-  <a https://www.linkedin.com/in/atulpal02/" target="_blank">
+  <a href=https://www.linkedin.com/in/atulpal02/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
   
