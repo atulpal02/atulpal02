@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/atulpal02" target="_blank">
+  <a href="https://www.linkedin.com/in/atulpal02/" target="_blank">
     <img src="https://img.shields.io/badge/Follow-%40atulpal02-gray?style=flat" alt="follow atulpal02" />
   </a>
 </p>
@@ -23,7 +23,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
   <a href="https://x.com/atulpal02" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" alt="twitter" width="40" height="40"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/atulpal02/?_gl=1*ayn7oz*_up*MQ..*_gs*MQ..&gclid=CjwKCAiAlfvIBhA6EiwAcErpyfsKCizHdKz9a_QAYGs_rItmdfFO7MnQPMtSv5AD1SFJU2R4OSVdKxoCb2QQAvD_BwE&gbraid=0AAAAAC9yBkBSccrHPL-W3d47cs3sqtZg7" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="geeksforgeeks" width="40" height="40"/>
