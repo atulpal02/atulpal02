@@ -1,5 +1,5 @@
-<h1 align="center">Hi 🧘🏻‍♂️, I'm Atul</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">Hi 🙋🏻 , I'm Atul</h1>
+<h3 align="center">A passionate 🧑🏻‍💻 Software developer from India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=atulpal02&label=Profile%20views&color=0e75b6&style=flat" alt="atulpal02" />
@@ -7,11 +7,11 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/atulpal02/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-%40atulpal02-gray?style=flat" alt="follow atulpal02" />
+    <img src="https://img.shields.io/badge/Follow-%40atulpal02-gray?style=flat" alt="follow me " />
   </a>
 </p>
 
-- 🌱 I’m currently learning ** AWS | ML & AI | System Design**
+- 🌱 I’m currently learning **AWS**, **Machine Learning & AI**, and **System Design**
 - 📫 How to reach me **iatulpal02@gmail.com**
 
 ---
