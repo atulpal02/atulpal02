@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/atulpal02/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-me-on-LINKEDIN-gray?style=flat" alt="follow me " />
+    <img src="https://img.shields.io/badge/Follow-megray?style=flat" alt="follow me " />
   </a>
 </p>
 
