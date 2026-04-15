@@ -7,6 +7,7 @@
 </p>
 
 <h3 align="center">MERN Full Stack  |  AWS  |  DS & Algo </h3>
+<h5>Just a Guy writing code, designing stuff, and running miles</h5>
 
 
 
