@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-<p align="left">
+
  <p align="left">
 
   <!-- Core Languages -->
@@ -54,4 +54,4 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 
 </p>
-</p>
+
