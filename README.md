@@ -6,7 +6,7 @@
   <a href="https://leetcode.com/u/atulpal02/">LeetCode</a>
 </p>
 
-<h3 align="center">Full Stack  |  AWS  |  DSA </h3>
+<h3 align="center">Full Stack MERN  |  AWS  |  DSA & Problem Solving </h3>
 
 
 
