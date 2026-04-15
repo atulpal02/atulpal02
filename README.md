@@ -12,7 +12,7 @@
 
 
 ## Tech Stack
-<p>
+<p align ="left">
 
   <!-- Core Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
@@ -44,15 +44,10 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 
 </p>
+<p>
 
-  <img src="https://komarev.com/ghpvc/?username=atulpal02&label=Profile%20views&color=0e75b6&style=flat" alt="atulpal02" />  <a href="https://www.linkedin.com/in/atulpal02/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-megray?style=flat" alt="Follow me on Linkedin" />
+  <img src="https://komarev.com/ghpvc/?username=atulpal02&label=Profile%20views&color=0e75b6&style=flat" alt="atulpal02" />  
+  <a href="https://www.linkedin.com/in/atulpal02/" target="_blank">
+  <img src="https://img.shields.io/badge/Follow-megray?style=flat" alt="Follow me on Linkedin" />
   </a>
 </p>
-
-
-  <img src="https://komarev.com/ghpvc/?username=atulpal02&label=Profile%20views&color=0e75b6&style=flat" alt="atulpal02" />  <a href="https://www.linkedin.com/in/atulpal02/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-megray?style=flat" alt="Follow me on Linkedin" />
-  </a>
-</p>
-
