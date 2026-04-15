@@ -11,7 +11,24 @@
 
 
 
+## Tech 
+
 ## Tech Stack
+
+<p align="left">
+<b>Languages:</b><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/> <img src="..." width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40") width="35"/> <img src="..." width="35"/>
+</p>
+
+<p align="left">
+<b>Backend & DB:</b><br/>
+<img src="..." width="35"/> <img src="..." width="35"/> <img src="..." width="35"/> <img src="..." width="35"/>
+</p>
+
+<p align="left">
+<b>DevOps:</b><br/>
+<img src="..." width="35"/> <img src="..." width="35"/> <img src="..." width="35"/>
+</p>
 <p>
 <p align ="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
