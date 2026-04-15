@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">MERN Full Stack  |  AWS  |  DS & Algo </h3>
-<p>
+<p align ="center">
 
   <img src="https://komarev.com/ghpvc/?username=atulpal02&label=Profile%20views&color=0e75b6&style=flat" alt="atulpal02" />  
   <a href="https://www.linkedin.com/in/atulpal02/" target="_blank">
