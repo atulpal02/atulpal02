@@ -14,7 +14,7 @@
 ## Tech Stack
 
 
- <p align="left">
+ <p align="center">
 
   <!-- Core Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
