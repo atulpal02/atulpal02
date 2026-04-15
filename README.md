@@ -1,5 +1,5 @@
-<h1 align="center">Hi 🙋🏻 , I'm Atul</h1>
-<h3 align="center">A passionate 🧑🏻‍💻 Software developer from India</h3>
+<h1 align="center">Atul Pal 🧑🏻‍💻</h1>
+<h3 align="center"> Software Developer | Full Stack | Problem Solver </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=atulpal02&label=Profile%20views&color=0e75b6&style=flat" alt="atulpal02" />
