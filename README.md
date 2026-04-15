@@ -11,11 +11,12 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **AWS**, **Machine Learning & AI**, and **System Design**
-- 📫 How to reach me **iatulpal02@gmail.com**
--  Portfolio: https://atulpal02.vercel.app
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/atulpal02/">LinkedIn</a> •
+  <a href="https://atulpal02.vercel.app">Portfolio</a> •
+  <a href="mailto:iatulpal02@gmail.com">Email</a> •
+  <a href="https://leetcode.com/u/atulpal02/">LeetCode</a>
+</p>
 
 ### Connect with me:
 
