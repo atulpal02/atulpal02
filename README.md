@@ -12,12 +12,14 @@
 <p align="left">
   <a href=https://www.linkedin.com/in/atulpal02/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-  </a>
-  
-  <a href="https://x.com/atulpal02" target="_blank">
+  </a> <a href="https://x.com/atulpal02" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" 
        alt="twitter" width="40" height="40" />
 </a>
+
+  
+  
+  
 
 <a href="https://leetcode.com/u/atulpal02/" target="_blank">
   <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" 
