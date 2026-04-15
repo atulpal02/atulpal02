@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center"> Full Stack  |  AWS  |  DS & Algo </h3>
-## Connect:
+
 
 <p align="left">
   <a href=https://www.linkedin.com/in/atulpal02/" target="_blank">
