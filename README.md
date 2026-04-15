@@ -1,4 +1,59 @@
 <h1 align="center">Atul Pal 🧑🏻‍💻</h1>
+<h3 align="center"> Software Developer  |  Full Stack  |  Problem Solver </h3>
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atulpal02&label=Profile%20views&color=0e75b6&style=flat" alt="atulpal02" />  <a href="https://www.linkedin.com/in/atulpal02/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-megray?style=flat" alt="Follow me on Linkedin" />
+  </a>
+</p>
+
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/atulpal02/">LinkedIn</a> •
+  <a href="https://atulpal02.vercel.app">Portfolio</a> •
+  <a href="mailto:iatulpal02@gmail.com">Email</a> •
+  <a href="https://leetcode.com/u/atulpal02/">LeetCode</a>
+</p>
+
+
+
+### Languages and Tools:
+## Tech Stack
+
+
+ <p align="left">
+
+  <!-- Core Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
+
+
+
+</p>
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atulpal02&label=Profile%20views&color=0e75b6&style=flat" alt="atulpal02" />  <a href="https://www.linkedin.com/in/atulpal02/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-megray?style=flat" alt="Follow me on Linkedin" />
+  </a>
+</p>
+<h1 align="center">Atul Pal 🧑🏻‍💻</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/atulpal02/">LinkedIn</a> •
   <a href="https://atulpal02.vercel.app">Portfolio</a> •
