@@ -8,11 +8,9 @@
 
 
 <p align="center">
-  <p align="left">
   <a href="https://www.linkedin.com/in/atulpal02/" target="_blank">
     <img src="https://img.shields.io/badge/Follow-megray?style=flat" alt="follow me " />
   </a>
-</p>
   <a href="https://www.linkedin.com/in/atulpal02/">LinkedIn</a> •
   <a href="https://atulpal02.vercel.app">Portfolio</a> •
   <a href="mailto:iatulpal02@gmail.com">Email</a> •
