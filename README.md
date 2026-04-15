@@ -6,7 +6,7 @@
   <a href="https://leetcode.com/u/atulpal02/">LeetCode</a>
 </p>
 
-<h3 align="center">MERN Full Stack  |  Aws  |  Dsa & Problem Solving </h3>
+<h3 align="center">MERN Full Stack  |  AWS  |  DS & Algo </h3>
 
 
 
