@@ -1,16 +1,13 @@
 <h1 align="center">Atul Pal 🧑🏻‍💻</h1>
-<h3 align="center"> Software Developer  |  Full Stack  |  Problem Solver </h3>
-
-
-
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/atulpal02/">LinkedIn</a> •
   <a href="https://atulpal02.vercel.app">Portfolio</a> •
   <a href="mailto:iatulpal02@gmail.com">Email</a> •
   <a href="https://leetcode.com/u/atulpal02/">LeetCode</a>
 </p>
+
+<h3 align="center"> Software Developer  |  Full Stack  |  Problem Solver </h3>
+
 
 
 
