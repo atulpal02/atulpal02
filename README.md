@@ -6,7 +6,7 @@
   <a href="https://leetcode.com/u/atulpal02/">LeetCode</a>
 </p>
 
-<h3 align="center"> Software Developer  |  Full Stack  |  Problem Solver </h3>
+<h3 align="center">Full Stack Engineer | AWS | DSA</h3>
 
 
 
