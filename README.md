@@ -6,7 +6,7 @@
   <a href="https://leetcode.com/u/atulpal02/">LeetCode</a>
 </p>
 
-<h3 align="center">MERN Full Stack  |  AWS  |  DS & Algo </h3>
+<h3 align="center"> Full Stack  |  AWS  |  DS & Algo </h3>
 <p align ="center">
 
   <img src="https://komarev.com/ghpvc/?username=atulpal02&label=Profile%20views&color=0e75b6&style=flat" alt="atulpal02" />  
