@@ -2,9 +2,6 @@
 
 <h1> ATUL PAL <h1>
 
-<br/>
-<br/>
-
 <img src="https://skillicons.dev/icons?i=python,cpp,go,javascript,typescript,react,nextjs,nodejs,postgres,redis,docker,tensorflow,pytorch,flask&perline=14&theme=dark" alt="Tech Stack" />
 
 <br/>
