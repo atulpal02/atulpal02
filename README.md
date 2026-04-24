@@ -1,15 +1,11 @@
 <div align="center">
 
-<h1> ATUL PAL </h1>
-<!---
 <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=800&lines=ATUL+PAL;ARCHITECTING+DISTRIBUTED+SYSTEMS;ENGINEERING+AI+AGENTS" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=800&lines=Atul+Pal; Architecting+Distributing+Systems; Engineering+AI+Agents" alt="Typing SVG" />
 </a>
 
-
 <br/>
 <br/>
---->
 
 <img src="https://skillicons.dev/icons?i=python,cpp,go,javascript,typescript,react,nextjs,nodejs,postgres,redis,docker,tensorflow,pytorch,flask&perline=14&theme=dark" alt="Tech Stack" />
 
