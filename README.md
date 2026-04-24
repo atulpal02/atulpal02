@@ -53,14 +53,14 @@ I am focused on the intersection of distributed systems and artificial intellige
 <a href="https://medium.com/@atulpal02"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
-<br/>
-<br/>
+<!-- <br/>
+<!-- <br/>
 
 <h3><code>VISITOR_COUNT</code></h3>
-<img src="https://count.getloli.com/@atulpal02?theme=booru-huggboo" alt="Atul Pal" />
+<img src="https://count.getloli.com/@atulpal02?theme=booru-huggboo" alt="Atul Pal" /> -->
 
-<br/>
-<br/>
+<!-- <br/>
+<br/> --> -->
 
 <hr style="border: 1px solid #000; width: 50%;">
 
