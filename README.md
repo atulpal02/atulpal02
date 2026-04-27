@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Hi, I am Atul Pal 🧑🏻‍💻 </h1>
+<h1> Hi, I am Atul Pal 🙋🏻 </h1>
 
 <br>
 
