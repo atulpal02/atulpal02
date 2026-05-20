@@ -16,9 +16,9 @@ I primarily work on backend services, APIs, and data-intensive systems, with a f
 
 ### Tech Stack
 - **Languages**: TypeScript, JavaScript, Go, Python  
-- **Backend**: Node.js, Express, Hono, Next.js (plus the broader JavaScript ecosystem)  
-- **Databases**: PostgreSQL, Prisma, Knex.js, MongoDB, Supabase, TimescaleDB 
-- **Tools & Infrastructure**: Git, Bash/Zsh, Cloudflare Workers, Vercel  
+- **Backend**: Node.js, Express, Next.js (plus the broader JavaScript ecosystem)  
+- **Databases**: PostgreSQL, MongoDB, Supabase, Redis
+- **Tools & Infrastructure**: Git, Bash/Zsh, AWS, Docker, Github Actions, Vercel  
 
 ---
 
