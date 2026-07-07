@@ -32,11 +32,5 @@ I primarily work on backend services, APIs, and data-intensive systems, with a f
 - Website: https://www.atulpal02.in  
 - LinkedIn: https://linkedin.com/in/atulpal02  
 - Email: iatulpal02@gmail.com
-
-## GitHub Stats
-
- <td>
-      <a href="https://github.com/atulpal02">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulpal02&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Top Languages" />
-      </a>
-    </td>
+  
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
