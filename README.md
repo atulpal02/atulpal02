@@ -24,6 +24,8 @@ I primarily work on backend services, APIs, and data-intensive systems, with a f
 
 ### Open Source
 - Contributor to open-source developer tooling and SDKs
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+ 
 
 
 ---
@@ -33,4 +35,3 @@ I primarily work on backend services, APIs, and data-intensive systems, with a f
 - LinkedIn: https://linkedin.com/in/atulpal02  
 - Email: iatulpal02@gmail.com
   
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
