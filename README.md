@@ -1,6 +1,6 @@
 # Hey, Atul this side! <img src="https://mwcorvettes.com/wp-content/uploads/2019/03/savethewave-300x252.gif" width="46" height="39" alt="Wave">
 
-I enjoy building software that continues to make sense six months later—not just on the day it's written.
+I enjoy building software that continues to make sense six months later not just on the day it's written.
 
 Most of my time goes into backend systems, APIs, databases, and developer tooling, where I care about simplicity, performance, and making complex problems easier to reason about.
 
