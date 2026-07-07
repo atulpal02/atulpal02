@@ -1,4 +1,4 @@
-# Hey, Atul this side!
+# Hey, Atul this side! <img src="https://mwcorvettes.com/wp-content/uploads/2019/03/savethewave-300x252.gif" width="46" height="39" alt="Wave">
 
 Backend-focused full stack developer working on reliable, maintainable systems and developer tooling.
 
@@ -25,9 +25,9 @@ I primarily work on backend services, APIs, and data-intensive systems, with a f
 ### Open Source
 - Contributor to open-source developer tooling and SDKs
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+
  
-
-
 ---
 
 ### Contact
