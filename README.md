@@ -35,12 +35,8 @@ I primarily work on backend services, APIs, and data-intensive systems, with a f
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulpal02&show_icons=true&theme=tokyonight" height="170"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulpal02&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulpal02&theme=tokyo-night"/>
-</p>
+ <td>
+      <a href="https://github.com/atulpal02">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulpal02&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Top Languages" />
+      </a>
+    </td>
