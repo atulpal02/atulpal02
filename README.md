@@ -33,8 +33,6 @@ Most of my time goes into backend systems, APIs, databases, and developer toolin
 - Exploring new technologies through hands-on projects and continuous experimentation
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-
-
 ---
 
 ### Contact
