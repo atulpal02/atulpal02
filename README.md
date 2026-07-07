@@ -40,4 +40,5 @@ Most of my time goes into backend systems, APIs, databases, and developer toolin
 - LinkedIn: https://linkedin.com/in/atulpal02
 - Twitter: https://x.com/atulpal02
 - Email: iatulpal02@icloud.com
+- Medium: https://atulpal02.medium.com/
   
